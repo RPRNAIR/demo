@@ -1,6 +1,9 @@
+
 {
-  "name": "Ramprasad Ramakrishnan",
-  "position": "Developer",
-  "image": "https://i.pinimg.com/280x280_RS/82/65/73/826573d7410082bce7737101d1e03ca2.jpg",
-  "description": "simply Learner"
+  "employeeOfTheMonth": {
+    "name": "Ramprasad Ramakrishnan",
+    "position": "Developer",
+    "image": "https://i.pinimg.com/280x280_RS/82/65/73/826573d7410082bce7737101d1e03ca2.jpg",
+    "description": "simply Learner"
+  }
 }
