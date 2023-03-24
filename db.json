@@ -1,14 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "name": "Ramprasad Ramakrishnan",
+  "position": "Developer",
+  "image": "https://i.pinimg.com/280x280_RS/82/65/73/826573d7410082bce7737101d1e03ca2.jpg",
+  "description": "simply Learner"
 }
